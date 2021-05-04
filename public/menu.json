@@ -1,0 +1,137 @@
+[
+    {
+        "menu": "Birnensalat",
+        "price": "11",
+        "ingredients": [
+            {
+                "name": "Reids Obstgarten Birnen"
+            },
+            {
+                "name": "Bitter Greens"
+            },
+            {
+                "name": "Müsli"
+            },
+            {
+                "name": "Big Firefly"
+            },
+            {
+                "name": "Farms Schwarz und Blau"
+            },
+            {
+                "name": "Pinienkernen-Vinaigrette"
+            }
+        ]
+    },
+    {
+        "menu": "Brodetto Di Pesce",
+        "price": "9",
+        "ingredients": [
+            {
+                "name": "Adria Meeresfrüchtesuppe"
+            },
+            {
+                "name": "Muscheln"
+            },
+            {
+                "name": "Garnelen"
+            },
+            {
+                "name": "Livornese"
+            },
+            {
+                "name": "Langustine Jakobsmuschel"
+            },
+            {
+                "name": "Sellerie"
+            },
+            {
+                "name": "Olive"
+            }
+        ]
+    },
+    {
+        "menu": "Farms Greens",
+        "price": "13",
+        "ingredients": [
+            {
+                "name": "Honigvinaigrette"
+            },
+            {
+                "name": "Hauskäse Crouton"
+            },
+            {
+                "name": "feine Kräuter"
+            }
+        ]
+    },
+    {
+        "menu": "Gegrillter Grünkohl",
+        "price": "9",
+        "ingredients": [
+            {
+                "name": "Bitter Greens"
+            },
+            {
+                "name": "Hauskäse Crouton"
+            },
+            {
+                "name": "Kamon Iberico"
+            }
+        ]
+    },
+    {
+        "menu": "Ricotta Gnud",
+        "price": "18",
+        "ingredients": [
+            {
+                "name": "Marinierte Sardine"
+            },
+            {
+                "name": "Rote Johannisbeere"
+            },
+            {
+                "name": "Pfifferlinge"
+            },
+            {
+                "name": "Pinienkerne"
+            },
+            {
+                "name": "Mantecato Vitello"
+            },
+            {
+                "name": "Fenchel"
+            },
+            {
+                "name": "Olive"
+            },
+            {
+                "name": "Pepitas"
+            }
+        ]
+    },
+    {
+        "menu": "Canestrelli",
+        "price": "18",
+        "ingredients": [
+            {
+                "name": "Reid Orchatd Birnen"
+            },
+            {
+                "name": "Bitter Greens"
+            },
+            {
+                "name": "Hauskäse Crouton"
+            },
+            {
+                "name": "Marinierte Sardine"
+            },
+            {
+                "name": "Pfifferlinge"
+            },
+            {
+                "name": "Muscheln"
+            }
+        ]
+    }
+]

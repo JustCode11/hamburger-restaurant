@@ -1,0 +1,97 @@
+.innerContainer {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.carousal {
+    width: 100%;
+}
+
+.headerContainer {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.title {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.2em;
+    margin: 10px 0;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.buttonStyle {
+    background: transparent;
+    border: none;
+    font-size: 0;
+}
+
+.buttonStyle:focus {
+    outline: none;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+}
+
+.carouselContainer {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.image {
+    height: 350px;
+    width: 95%;
+    object-fit: cover;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.image:hover {
+    opacity: .7;
+    transition: .3s ease;
+}
+
+.arrow {
+    position: absolute;
+    cursor: pointer;
+}
+
+.arrowPrev {
+    background-image: url("../assets/icons/previous.svg");
+    top: 50%;
+    left: -60px;
+}
+
+.arrowNext {
+    background-image: url("../assets//icons/next.svg");
+    top: 50%;
+    right: -60px;
+}
+
+.picOne {
+    background-image: url("../assets/images/carousal-img-1.jpg");
+}
+
+.picTwo {
+    background-image: url("../assets/images/carousal-img-2.jpg");
+}
+
+.picThree {
+    background-image: url("../assets/images/carousal-img-3.jpg");
+}
+
+.picFour {
+    background-image: url("../assets/images/carousal-img-4.jpg");
+}
+
+.picFive {
+    background-image: url("../assets/images/carousal-img-5.jpg");
+}
+
+.picSix {
+    background-image: url("../assets/images/carousal-img-6.jpg");
+}
